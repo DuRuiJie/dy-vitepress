@@ -1,4 +1,3 @@
----
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
@@ -23,4 +22,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: 技术日常
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> 10d7161a059deb98d7b3bd237c694bcee1b653d6
