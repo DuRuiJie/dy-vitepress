@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:'/dy-blog/',
   title: "个人知识库",
   description: "记录并分享前端技术",
   themeConfig: {
