@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:'/dy-vitepress/',
-  title: "个人技术博客",
+  title: "个人知识库",
   description: "记录并分享前端技术",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
