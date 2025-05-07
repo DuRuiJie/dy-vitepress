@@ -3,23 +3,24 @@
 layout: home
 
 hero:
-  name: "个人技术博客"
+  name: ""
   text: "记录并分享前端技术"
-  tagline: My great project tagline
+  tagline: 记录并分享Html、Javascript、Css、Typescript、Vue、React等前沿技术
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 快速开始
       link: /markdown-examples
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 前端知识
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 前沿技术
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 常用工具推荐
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 技术日常
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
